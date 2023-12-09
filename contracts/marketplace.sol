@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-//Logic imppl
+//smart contract for the token market place
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 

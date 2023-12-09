@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+//smart contract for the token market place
+
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract SkillToken is ERC20 {
